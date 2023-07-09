@@ -1,6 +1,6 @@
-AliEissa10
-Robotics Engineer
-Teaching Assistant at Egyptian Russian University
+- AliEissa10
+- Robotics Engineer
+- Teaching Assistant at Egyptian Russian University
   
 
 <!---
