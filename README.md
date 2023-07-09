@@ -1,4 +1,4 @@
-- AliEissa10
+- Ali Eissa
 - Robotics Engineer
 - Teaching Assistant at Egyptian Russian University
   
