@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AliEissa10
-- 👀 I’m Robotics Engineer.
-- 🌱 I’m teaching assistant at Egyptian Russian University...
+AliEissa10
+Robotics Engineer
+Teaching Assistant at Egyptian Russian University
   
 
 <!---
